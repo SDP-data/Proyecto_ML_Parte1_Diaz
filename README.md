@@ -11,6 +11,7 @@ El objetivo es obtener insights accionables sobre desempeño y fatiga de los par
 - `Proyecto_ML_Parte1_Díaz.ipynb` : Notebook con análisis exploratorio, limpieza de datos, creación de features, clustering y modelado.
 - `Hyrox_procesado_SDP.csv` : Dataset original (procesado).
 - `hyrox_enriquecido_opt.csv` : Dataset procesado y enriquecido listo para modelado.
+- `Presentación PDF - DSII primera parte SDP.pdf`: Presentación con breve descripción del trabajo.
 - `README.md` : Este archivo.
 
 ## Requisitos
